@@ -1,0 +1,9 @@
+- 👋 Hey I am ZeroInfinity. 
+- 👀 I am a developer that loves new projects...
+- 🌱 I’m currently learning java...
+- 📫 You can contact me here ZeroInfinity#1964 ...
+
+<!---
+FalcoYT/FalcoYT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
